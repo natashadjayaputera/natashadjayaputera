@@ -8,6 +8,8 @@
 1. Professional Website Development
 * 🔗Website: [Solusi Investor Digital](https://solusiinvestordigital.com/)
   * Description: As the solo developer, I managed a three-month project using bubble.io, creating a customized website that uniquely met the client's needs. Beyond the initial development, I've been actively maintaining and enhancing the site since August 2022. This project showcases my ability to provide tailored online solutions with a focus on user experience. It includes features like user registration and data collection, seamless feedback loops for users and admins, a notification system via email, and the capability to generate bulk reports and data in CSV format.
+* 🔗Website: [Bo'a Gardens Rote](https://www.boagardens.rote.com/)
+  * Description: The Bo'a Gardens Rote website, developed by me as a solo developer, showcases a user-friendly interface crafted with Next.js and React, complemented by the sleek design of Tailwind CSS. The website, tailored to meet client specifications, is efficiently deployed on Vercel for seamless accessibility and optimal performance.
 2. MyAnimeList Clone
 * 🔗Website: [AniWiki](https://aniwiki.vercel.app/)
   * Description: For this project, I embarked on the design and development of a MyAnimeList clone website with a modern UI/UX inspired by Netflix. The website was crafted using React, TypeScript, and a REST API interface, and is currently hosted on Vercel. This endeavor not only underscores my skills in web development but also my ability to create engaging and aesthetically pleasing user interfaces that enhance the user experience.
